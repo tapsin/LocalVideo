@@ -1,0 +1,8 @@
+{
+  "name": "localvideo",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "scripts": {"start": "node server.mjs"},
+  "dependencies": {"@remotion/cli":"4.0.484","@remotion/renderer":"4.0.484","@remotion/bundler":"4.0.484","react":"18.2.0","react-dom":"18.2.0","remotion":"4.0.484","zod":"4.3.6"}
+}

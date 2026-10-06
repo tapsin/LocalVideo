@@ -1,0 +1,9 @@
+node_modules/
+vendor/
+work/
+renders/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
